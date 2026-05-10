@@ -1,0 +1,22 @@
+{
+  "overview": "A comprehensive study website for IB Diploma Programme Computer Science students. Covers the full syllabus for both Standard Level and Higher Level, including Theme A (Concepts), Theme B (Computational Thinking), assessment guides, and curated resources.",
+  "features": [
+    "Home page with course overview and quick facts",
+    "Full syllabus for Theme A (Computer Fundamentals, Networks, Databases, Machine Learning) and Theme B (Computational Thinking, Programming, OOP)",
+    "SL vs HL comparison with side-by-side breakdown",
+    "External and Internal Assessment guides with rubrics and tips",
+    "Curated resources library by topic",
+    "News and updates section",
+    "About page with contact form",
+    "Mobile-responsive navigation"
+  ],
+  "category": "education",
+  "tags": [
+    "ibdp",
+    "computer-science",
+    "education",
+    "study-guide",
+    "ib-diploma"
+  ],
+  "last_updated": "2026-05-10T16:11:09.124Z"
+}
